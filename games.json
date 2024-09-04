@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pgr",
+    "name": "Punishing: Gray Raven",
+    "image": "https://example.com/pgr-image.jpg",
+    "description": "Action RPG set in a post-apocalyptic world.",
+    "version": "Cradle Parade"
+  },
+  {
+    "id": "ww",
+    "name": "Wuthering Waves",
+    "image": "https://example.com/ww-image.jpg",
+    "description": "Open-world action RPG with stunning visuals.",
+    "version": "1.2.0"
+  }
+]
